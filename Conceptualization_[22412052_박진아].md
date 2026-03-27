@@ -3,6 +3,8 @@
 ## [cite_start]Hi-yu! [cite: 1]
 [cite_start]**- Conceptualization -** [cite: 1]
 
+> ![](로고.png)
+
 * [cite_start]**Student No:** 22412052 [cite: 1]
 * [cite_start]**Name:** 박진아 [cite: 1]
 * [cite_start]**E-mail:** jiiinap31@yu.ac.kr [cite: 1]
