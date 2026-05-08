@@ -1,4 +1,4 @@
-# [cite_start]1. Conceptualization [cite: 1]
+# 1. Conceptualization [cite: 1]
 
 ## [cite_start]Hi-yu! [cite: 1]
 [cite_start]**- Conceptualization -** [cite: 1]
