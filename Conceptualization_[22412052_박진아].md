@@ -20,7 +20,7 @@
 
 <br>
 
-### [cite_start]= Contents = [cite: 1]
+### = Contents =
 1. Business purpose 
 2. System context diagram 
 3. Use case list 
@@ -273,8 +273,8 @@
 전산상의 오류나 데이터 누락이 없어야 한다. 식당이 폐업했거나 메뉴가 품절되었음에도 불구하고 웹사이트에 잘못된 정보가 렌더링된다면, 사용자는 헛걸음을 하게 되고 이 시스템의 존재 목적을 상실하게 된다. 
 * **해결책:** 판매자가 시스템을 통해 즉각적으로 데이터를 수정할 수 있는 환경(Update Goods/Business)을 제공하고, 사용자가 직접 잘못된 정보를 신고(Send SOS)하여 관리자가 이를 검증하고 덮어씌우는(Give Data) 상호 보완적인 데이터 정화 프로세스를 강제한다. 
 
-**5.2.2. [cite_start]Problem #2 Role-based Access Control and Verification (접근 권한 및 사용자 인증)** 
-[cite_start]관리자에 의해 승인되거나 인증된 계정으로만 특정 시스템 기능에 접근이 가능해야 한다. 권한이 없는 사용자가 타인의 가게 정보를 수정하거나, 영남대 학생이 아닌 외부인이 악성 리뷰를 작성하면 커뮤니티의 신뢰도가 하락한다. 
+**5.2.2. Problem #2 Role-based Access Control and Verification (접근 권한 및 사용자 인증)** 
+관리자에 의해 승인되거나 인증된 계정으로만 특정 시스템 기능에 접근이 가능해야 한다. 권한이 없는 사용자가 타인의 가게 정보를 수정하거나, 영남대 학생이 아닌 외부인이 악성 리뷰를 작성하면 커뮤니티의 신뢰도가 하락한다. 
 * **해결책:** 회원가입 시 외부 메일 서버(YU Mail Server)와 연동하여 영남대 소속임을 검증(Request Verification)한다.
 * 이후 생성된 세션을 바탕으로 사용자 역할(Student, Manager, Owner, Admin)을 엄격히 구분하여, 각 권한에 허가된 기능(메뉴 관리, 권한 위임 등)에만 접근할 수 있도록 백엔드 라우팅을 통제한다. 
 
