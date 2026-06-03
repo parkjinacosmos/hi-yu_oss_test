@@ -10,7 +10,7 @@
 # 🌟 Hi-yu! Introduction README.md
 > **영남대학교 학생들을 위한 신뢰 기반 캠퍼스 상권 정보 공유 플랫폼/웹사이트**
 <img width="1100" height="730" alt="image" src="https://github.com/user-attachments/assets/dfe10bca-d953-4b0e-9ee4-6aba528d6d15" />
-
+<sub>※ 웹사이트 구현 화면과는 연관 없습니다! readme에서 조금 더 직관적인 화면을 표현하고자 만들었습니다.</sub>
 <br>
 
 ## 🔍 1. 배경 및 필요성
@@ -42,3 +42,7 @@
 1.  **사용자 역할 정의**: 주요 사용자층인 학생(Student), 식당 주인(Owner), 관리자(Manager)가 시스템 내에서 어떻게 상호작용하는지 구체적으로 분석하고 정의합니다.
 2.  **유스케이스(Use Case) 상세화**: 시스템이 제공하는 각 기능들을 상세히 분석(Description)하여 설계의 정확도를 높입니다.
 3.  **도메인 및 UI 모델링**: 분석된 기능을 실제로 구현하기 위해 필요한 핵심 도메인(Domain) 모델을 도출하고, 사용자 인터페이스(UI)의 개념적 구조를 명확히 설계합니다.
+
+## 🐾 4. commit message
+1. add: 파일에 내용을 '추가'만 한 경우
+2. docs: 문서를 '수정'한 경우
