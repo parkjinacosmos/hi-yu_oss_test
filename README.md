@@ -7,7 +7,7 @@
 
 <br>
 
-# 🌟 Hi-yu! (하이유) Introduction README.md
+# 🌟 Hi-yu! Introduction README.md
 > **영남대학교 학생들을 위한 신뢰 기반 캠퍼스 상권 정보 공유 플랫폼/웹사이트**
 <img width="1100" height="730" alt="image" src="https://github.com/user-attachments/assets/dfe10bca-d953-4b0e-9ee4-6aba528d6d15" />
 
