@@ -1,3 +1,5 @@
+배포 웹사이트 링크: https://chimerical-salamander-4afbc6.netlify.app/
+
 > 본 프로젝트는 영남대학교 컴퓨터공학전공 오픈소스설계 과제물의 일환으로 개발되었습니다.
 > 
 > ### 👥 Author
